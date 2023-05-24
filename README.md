@@ -1,2 +1,12 @@
-# CSSBattle-Solutions
-I am going to solve and share the solutions of CSSBattle challanges 
+# CSS Battle
+
+I am going to solve and post the solution of css battle
+
+
+## Battle #1 - Pilot Battle
+
+![preview](./Battle%20%231/Images/preview.png)
+
+- [#1 - Simply Square](./Battle%20%231/1-simply-square.md)
+
+
