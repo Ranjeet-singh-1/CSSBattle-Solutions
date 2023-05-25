@@ -4,7 +4,7 @@
 
 [Link to the problem](https://cssbattle.dev/play/2)
 
-![result](./images/2-carrom.png)
+![result](./Images/2-carrom.png)
 
 ```html
 <div id="A"></div>
